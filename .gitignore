@@ -10,3 +10,4 @@ errors
 networth.conf
 cpanfile.snapshot
 .perl-version
+.env
